@@ -7,7 +7,9 @@ We’ll use Tableau Public to explore what effect the COVID19 global lockdown ha
 📌 The workshop is beginner-friendly! All you need is a computer, a good internet connection and to set up a Tableau Public profile to host your work and be able to use the tool (it’s simple to do and you can download the desktop version [here](https://public.tableau.com/s/)).
 
 This folder contains the materials for the guided analysis:
-- At the beggining of the workshop you can find: [Datasets](https://github.com/ang-ferriz/Tableau_Public_Workshop/tree/main/Tableau_Public_Workshop/Datasets)
+- At the beggining of the workshop you can find: 
+    + [Datasets](https://github.com/ang-ferriz/Tableau_Public_Workshop/tree/main/Tableau_Public_Workshop/Datasets)
+    + [Python Notebook](https://github.com/ang-ferriz/Tableau_Public_Workshop/blob/main/pre_processing_Q12020_data.ipynb) - to show where the data comes from
 - When the workshop ends you will also find the link for the dashboard and the file of the Tableau workbook
 
 Ready?! 🙌
