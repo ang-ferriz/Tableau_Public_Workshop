@@ -2,7 +2,7 @@
 
 Analyzing data is crucial for society to best come up with solutions to the various environmental and societal challenges we face 🎯. Without it, the latest IPCC (Intergovernmental Panel on Climate Change) report, for example, wouldn’t be possible.
 
-We’ll use Tableau Public to explore what effect the COVID19 global lockdown had on air pollutant levels during the first quarter of 2020.
+We’ll use Tableau Public to explore what effect the COVID-19 global lockdown had on air pollutant levels during the first quarter of 2020.
 
 📌 The workshop is beginner-friendly! All you need is a computer, a good internet connection and to set up a Tableau Public profile to host your work and be able to use the tool (it’s simple to do and you can download the desktop version [here](https://public.tableau.com/s/)).
 
