@@ -1,4 +1,4 @@
-# Tableau Public Workshop - 📍 Thursday 4 of November at 18:00h CET
+# 📈 Using Tableau Public to Visualize Climate Data 📈 - 📍 Thursday 4 of November at 18:00h CET
 
 Analyzing data is crucial for society to best come up with solutions to the various environmental and societal challenges we face 🎯. Without it, the latest IPCC (Intergovernmental Panel on Climate Change) report, for example, wouldn’t be possible.
 
