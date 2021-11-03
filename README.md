@@ -10,8 +10,8 @@ This folder contains the materials for the analysis:
 
 1) At the beggining of the workshop you can find the 
 [datasets](https://github.com/ang-ferriz/Tableau_Public_Workshop/tree/main/Tableau_Public_Workshop/Datasets) we are working with:
-- Dataset1: `dataset1_global_no2.xlsx` Excel edited data downloaded from [_Data for: Impact of Lockdown during the COVID-19 Outbreak on Global Air Quality_](https://data.mendeley.com/datasets/wwjnw24xvk/1)
-- Dataset2: `data2_filtered.csv` edited with Python Jupyter Notebook, [.ipynb](https://github.com/ang-ferriz/Tableau_Public_Workshop/blob/main/pre_processing_Q12020_data.ipynb) in the repo just to show how the [original data](https://aqicn.org/data-platform/covid19/) from the _Air Quality Open Data Platform_ was transformed.
+- Dataset 1 | `dataset1_global_no2.xlsx` (Excel file): edited data downloaded from [_Data for: Impact of Lockdown during the COVID-19 Outbreak on Global Air Quality_](https://data.mendeley.com/datasets/wwjnw24xvk/1)
+- Dataset 2 | `data2_filtered.csv` (comma separated values file): [original data](https://aqicn.org/data-platform/covid19/) edited to make it easier to work with. The Python Jupyter Notebook, [.ipynb](https://github.com/ang-ferriz/Tableau_Public_Workshop/blob/main/pre_processing_Q12020_data.ipynb) with the editing steps is available in the repo just to show how the original dataset from the _Air Quality Open Data Platform_ was transformed.
             
 2) When the workshop ends you will also find the link for the final dashboard and the file of the Tableau workspace (_Coming soon_).
 3) (_Later_) I will also add some of the most interesting questions answered during the workshop so you can revisit them easily.
