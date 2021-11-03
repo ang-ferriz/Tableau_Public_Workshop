@@ -15,7 +15,7 @@ This folder contains the materials for the analysis:
             
 2) When the workshop finishes you will also find _here_ the link for the final dashboard and the file of the Tableau workspace (_Coming soon_).
 
-3) (_Later_) You will also find here some of the most interesting questions answered during the workshop so you can revisit them easily.
+3) (_Later_) You will find here some of the insights from the data and also the most interesting questions answered during the workshop so you can revisit them easily.
 
 Ready?! 🙌
 
