@@ -10,8 +10,8 @@ This folder contains the materials for the analysis:
 
 1) At the beggining of the workshop you can find the 
 [datasets](https://github.com/ang-ferriz/Tableau_Public_Workshop/tree/main/Tableau_Public_Workshop/Datasets) we are working with:
-- :globe_with_meridians: Dataset 1 | `dataset1_global_no2.xlsx` (Excel file): edited data downloaded from [_Data for: Impact of Lockdown during the COVID-19 Outbreak on Global Air Quality_](https://data.mendeley.com/datasets/wwjnw24xvk/1)
-- :chart_with_downwards_trend: Dataset 2 | `data2_filtered.csv` (Comma Separated Values file): [original data](https://aqicn.org/data-platform/covid19/) edited to make it easier to work with. The Python Jupyter Notebook, [.ipynb](https://github.com/ang-ferriz/Tableau_Public_Workshop/blob/main/pre_processing_Q12020_data.ipynb) with the editing steps is available in the repo just to show how the original dataset from the _Air Quality Open Data Platform_ was filtered.
+- :globe_with_meridians: Dataset 1 | `dataset1_global_no2.xlsx` (Excel file): global changes of NO2 levels. Edited data downloaded from [_Data for: Impact of Lockdown during the COVID-19 Outbreak on Global Air Quality_](https://data.mendeley.com/datasets/wwjnw24xvk/1)
+- :chart_with_downwards_trend: Dataset 2 | `data2_filtered.csv` (Comma Separated Values file): some NO2, PM10, PM2,5 data for specific places. The [original data](https://aqicn.org/data-platform/covid19/), which was a really big file with lots of measurements, was edited to make it easier to work with. The Python Jupyter Notebook, [.ipynb](https://github.com/ang-ferriz/Tableau_Public_Workshop/blob/main/pre_processing_Q12020_data.ipynb) with the editing steps is available in the repo just to show how the original dataset from the _Air Quality Open Data Platform_ was filtered.
             
 2) When the workshop ends you will also find _here_ the link for the final dashboard and the file of the Tableau workspace (_Coming soon_).
 3) (_Later_) You will also find here some of the most interesting questions answered during the workshop so you can revisit them easily.
