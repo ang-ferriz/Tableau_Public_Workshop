@@ -13,9 +13,12 @@ This folder contains the materials for the analysis:
 - :globe_with_meridians: Dataset 1 | `dataset1_global_no2.xlsx` (Excel file): global changes of NO2 levels. Edited data to leave only the columns we are interested in for this case. The original dataset can be found in [_Data for: Impact of Lockdown during the COVID-19 Outbreak on Global Air Quality_](https://data.mendeley.com/datasets/wwjnw24xvk/1).
 - :chart_with_downwards_trend: Dataset 2 | `data2_filtered.csv` (Comma Separated Values file): some NO2, PM10, PM2,5 data for specific places. The original dataset, which was a really big file with lots of measurements, was edited to make it easier to work with. The Python Jupyter Notebook, [pre_processing_Q12020_data.ipynb](https://github.com/ang-ferriz/Tableau_Public_Workshop/blob/main/pre_processing_Q12020_data.ipynb), with the cleaning steps is available in the repo just to show how the original dataset from the [_Air Quality Open Data Platform_](https://aqicn.org/data-platform/covid19/) was filtered.
             
-2) [Tableau link](https://public.tableau.com/app/profile/.ngela4803/viz/Workshop_Live_04Nov/COVID-19AirQualityChanges?publish=yes) for the final dashboard and the file of the Tableau workbook. You can download it and open the workspace in your local machine.
+2) [Tableau link](https://public.tableau.com/app/profile/.ngela4803/viz/Workshop_Live_04Nov/COVID-19AirQualityChanges?publish=yes) for the final dashboard and the file of the Tableau workbook. You can download the file and open it in your local machine.
 
-3) (_On Friday_) You will find here some of the insights from the data and also the most interesting questions answered during the workshop so you can revisit them easily.
+3) Some of the insights from the visualizations:
+:date: The NO2 measurement values during first quarter of 2020 show that lockdown had a positive effect (reduction) on indicators starting from the general variations worldwide and going on detail in Italy as an study case because of the remarkable decrease of pollution indicators levels.
+:stop_sign: In Italy the percentage of NO2 comparing 2015-2019 and 2020 was near to -35%, it probably reduced significantly during lockdown due to transport shutdown and low mobility. 
+:car: The significant reductions of pollutants levels were clear even though the lockdown still had not started, this could be a signal of the slowdown in the economic activities. As nitrogen dioxide is emitted as a result of fossil fuel combustion processes, mainly from street vehicle activities in urban areas it makes sense that a reduction is shown in the graph.
 
 I encourage you to build the graphs for the other two pollutants (PM2,5 and PM10), add a text block to the dashboard or also try to build it for another case study to explore the data and practice with Tableau:
 <p align="center"> <img src="https://github.com/ang-ferriz/Tableau_Public_Workshop/blob/main/goal_dashboard.png" width="600px" height="auto">
