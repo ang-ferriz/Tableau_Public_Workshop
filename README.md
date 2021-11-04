@@ -17,11 +17,11 @@ This folder contains the materials for the analysis:
 
 3) Some of the insights from the visualizations:
             
-:date: The NO2 measurement values during first quarter of 2020 show that lockdown had a positive effect (reduction) on indicators starting from the general variations worldwide and going on detail in Italy as an study case because of the remarkable decrease of pollution indicators levels.
+- :date: The NO2 measurement values during first quarter of 2020 show that lockdown had a positive effect (reduction) on indicators starting from the general variations worldwide and going on detail in Italy as an study case because of the remarkable decrease of pollution indicators levels.
             
-:stop_sign: In Italy the percentage of NO2 comparing 2015-2019 and 2020 was near to -35%, it probably reduced significantly during lockdown due to transport shutdown and low mobility. 
+- :stop_sign: In Italy the percentage of NO2 comparing 2015-2019 and 2020 was near to -35%, it probably reduced significantly during lockdown due to transport shutdown and low mobility. 
             
-:car: The significant reductions of pollutants levels were clear even though the lockdown still had not started, this could be a signal of the slowdown in the economic activities. As nitrogen dioxide is emitted as a result of fossil fuel combustion processes, mainly from street vehicle activities in urban areas it makes sense that a reduction is shown in the graph.
+- :car: The significant reductions of pollutants levels were clear even though the lockdown still had not started, this could be a signal of the slowdown in the economic activities. As nitrogen dioxide is emitted as a result of fossil fuel combustion processes, mainly from street vehicle activities in urban areas it makes sense that a reduction is shown in the graph.
 
 I encourage you to build the graphs for the other two pollutants (PM2,5 and PM10), add a text block to the dashboard or also try to build it for another case study to explore the data and practice with Tableau:
 <p align="center"> <img src="https://github.com/ang-ferriz/Tableau_Public_Workshop/blob/main/goal_dashboard.png" width="600px" height="auto">
