@@ -24,7 +24,7 @@ This folder contains the materials for the analysis:
 - :car: The significant reductions of pollutants levels were clear even though the lockdown still had not started, this could be a signal of the slowdown in the economic activities. As nitrogen dioxide is emitted as a result of fossil fuel combustion processes, mainly from street vehicle activities in urban areas it makes sense that a reduction is shown in the graph.
 
 I encourage you to build the graphs for the other two pollutants (PM2,5 and PM10), add a text block to the dashboard or also try to build it for another case study to explore the data and practice with Tableau:
-<p align="center"> <img src="https://github.com/ang-ferriz/Tableau_Public_Workshop/blob/main/goal_dashboard.png" width="600px" height="auto">
+<p align="center"> <img src="https://github.com/ang-ferriz/Tableau_Public_Workshop/blob/main/goal_dashboard.png" width="800px" height="auto">
             
 Ready?! Let's go! 🙌
 
