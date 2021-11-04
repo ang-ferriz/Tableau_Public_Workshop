@@ -15,10 +15,10 @@ This folder contains the materials for the analysis:
             
 2) [Tableau link](https://public.tableau.com/app/profile/.ngela4803/viz/Workshop_Live_04Nov/COVID-19AirQualityChanges?publish=yes) for the final dashboard and the file of the Tableau workbook. You can download it and open the workspace in your local machine.
 
-I encourage you to build the graphs for the other two pollutants (PM2,5 and PM10), add a text block to the dashboard or also try to build it for another case study to explore the data and practice with Tableau:
-<p align="center"> <img src="https://github.com/ang-ferriz/Tableau_Public_Workshop/blob/main/goal_dashboard.png" width="600px" height="auto">
-
 3) (_On Friday_) You will find here some of the insights from the data and also the most interesting questions answered during the workshop so you can revisit them easily.
 
-Ready?! 🙌
+I encourage you to build the graphs for the other two pollutants (PM2,5 and PM10), add a text block to the dashboard or also try to build it for another case study to explore the data and practice with Tableau:
+<p align="center"> <img src="https://github.com/ang-ferriz/Tableau_Public_Workshop/blob/main/goal_dashboard.png" width="600px" height="auto">
+            
+Ready?! Let's go! 🙌
 
