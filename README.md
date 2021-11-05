@@ -1,6 +1,5 @@
 # <p align="center"> 📈 Using Tableau Public to Visualize Climate Data 📈 | 📍 Thursday 4 of November at 18:00h CET
             
-This repo contains:
 - [Intro](#a-bullet)
 - [Content](#b-bullet)
 - [Resources](#c-bullet)
@@ -37,7 +36,7 @@ Ready?! Let's go! 🙌
 *Recommended resources to learn more about the Q&A topics mentioned during the workshop:*
             
 For visual best practices :bar_chart::
-- [Tableau for Dummies: Tips to Make You Tableau-Smarter](https://www.tableau.com/about/blog/2016/3/5-great-tips-tableau-dummies-51512)
++ [Tableau for Dummies: Tips to Make You Tableau-Smarter](https://www.tableau.com/about/blog/2016/3/5-great-tips-tableau-dummies-51512)
             
 - [Visual Analytics](https://www.tableau.com/data-insights/reference-library/visual-analytics)
             
