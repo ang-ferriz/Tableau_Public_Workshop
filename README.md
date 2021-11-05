@@ -41,10 +41,12 @@ How to build :top: ranges -- _not so beginner friendly_ but really well explaine
 - [Sets for Top N and Others](https://help.tableau.com/current/pro/desktop/en-us/sortgroup_sets_topn.htm)
             
 
-:fire: I encourage you continue practising with this little challenge :fire:: 
+:fire: I encourage you continue practising with this little challenge :fire:: Try to reproduce the image below. 
             
-Try to reproduce the image below. Hint: build the graphs for the other two pollutants (PM2,5 and PM10), add a text block to the dashboard and the bar plot comparing China (where the pandemic hit first) and Italy. 
+ Hint: build the graphs for the other two pollutants (PM2,5 and PM10), add a text block to the dashboard and the bar plot comparing China (where the pandemic hit first) and Italy. 
+            
 <p align="center"> <img src="https://github.com/ang-ferriz/Tableau_Public_Workshop/blob/main/goal_dashboard.png" width="800px" height="auto">
-Also try to build a dashboard for another case study (location) to explore the data.
+
+You can also try to build a dashboard for another case study (location) to explore the data.
 
 <p align="center"> :rocket::rocket: Happy learning!! :rocket: :rocket:
