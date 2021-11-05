@@ -29,10 +29,12 @@ I encourage you to build the graphs for the other two pollutants (PM2,5 and PM10
 Ready?! Let's go! 🙌
             
 *Recommended resources to learn more about the Q&A topics mentioned during the workshop:*
-- [Tableau for Dummies: Tips to Make You Tableau-Smarter](https://www.tableau.com/about/blog/2016/3/5-great-tips-tableau-dummies-51512)
-- [Visual Analytics](https://www.tableau.com/data-insights/reference-library/visual-analytics)
-- [Visual Best Practices](https://help.tableau.com/current/blueprint/en-us/bp_visual_best_practices.htm)
-- [When Visualizing Data, Ask Yourself: Where Are Your Eyes Drawn?](https://www.tableau.com/about/blog/2015/10/where-are-your-eyes-drawn-45392)
-            
+ For visual best practices:
+                        - [Tableau for Dummies: Tips to Make You Tableau-Smarter](https://www.tableau.com/about/blog/2016/3/5-great-tips-tableau-dummies-51512)
+                        - [Visual Analytics](https://www.tableau.com/data-insights/reference-library/visual-analytics)
+                        - [Visual Best Practices](https://help.tableau.com/current/blueprint/en-us/bp_visual_best_practices.htm)
+                        - [When Visualizing Data, Ask Yourself: Where Are Your Eyes Drawn?](https://www.tableau.com/about/blog/2015/10/where-are-your-eyes-drawn-45392)
+How to build top range (not so beginner friendly, but really well explained):
+                        - [Sets for Top N and Others](https://help.tableau.com/current/pro/desktop/en-us/sortgroup_sets_topn.htm)
 
 
