@@ -1,11 +1,19 @@
 # <p align="center"> 📈 Using Tableau Public to Visualize Climate Data 📈 | 📍 Thursday 4 of November at 18:00h CET
-
+            
+This repo contains:
+- [Intro](#a-bullet)
+- [Content](#b-bullet)
+- [Resources](#c-bullet)
+- [Challenge](#d-bullet)
+            
+# Intro <a name="a-bullet"/>
 Analyzing data is crucial for society to best come up with solutions to the various environmental and societal challenges we face 🎯. Without it, the latest IPCC (Intergovernmental Panel on Climate Change) report, for example, wouldn’t be possible.
 
 We’ll use Tableau Public to explore what effect the COVID-19 global lockdown had on air pollutant levels during the first quarter of 2020.
 
 📌 The workshop is beginner-friendly! All you need is a computer, a good internet connection and to set up a Tableau Public profile to host your work and be able to use the tool (it’s simple to do and you can download the desktop version [here](https://public.tableau.com/s/)).
 
+#  Content <a name="b-bullet"/>
 This folder contains the materials for the analysis:
 
 1) At the beginning of the workshop you can find the 
@@ -24,7 +32,8 @@ This folder contains the materials for the analysis:
 - :car: The significant reductions of pollutants levels were clear even though the lockdown still had not started, this could be a signal of the slowdown in the economic activities. As nitrogen dioxide is emitted as a result of fossil fuel combustion processes, mainly from street vehicle activities in urban areas it makes sense that a reduction is shown in the graph.
             
 Ready?! Let's go! 🙌
-            
+
+# Resources <a name="c-bullet"/>
 :books: *Recommended resources to learn more about the Q&A topics mentioned during the workshop:*
             
  For visual best practices :bar_chart::
@@ -40,7 +49,7 @@ How to build :top: ranges -- _not so beginner friendly_ but really well explaine
             
 - [Sets for Top N and Others](https://help.tableau.com/current/pro/desktop/en-us/sortgroup_sets_topn.htm)
             
-
+# Challenge <a name="d-bullet"/>
 :computer: I encourage you continue practising with this little challenge: :fire:  Try to reproduce the image below. :fire:
             
 Hint: build the graphs for the other two pollutants (PM2,5 and PM10), add a text block to the dashboard and the bar plot comparing China (where the pandemic hit first) and Italy. 
