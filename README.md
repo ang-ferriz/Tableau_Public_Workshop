@@ -42,7 +42,9 @@ How to build :top: ranges -- _not so beginner friendly_ but really well explaine
             
 
 :fire: I encourage you continue practising with this little challenge :fire:: 
-Try to build the graphs for the other two pollutants (PM2,5 and PM10), add a text block to the dashboard and the bar plot comparing China (where the pandemic hit first) and Italy or also try to build it for another case study to explore the data.
+            
+Try to reproduce the image below. Hint: build the graphs for the other two pollutants (PM2,5 and PM10), add a text block to the dashboard and the bar plot comparing China (where the pandemic hit first) and Italy. 
 <p align="center"> <img src="https://github.com/ang-ferriz/Tableau_Public_Workshop/blob/main/goal_dashboard.png" width="800px" height="auto">
+Also try to build a dashboard for another case study (location) to explore the data.
 
 <p align="center"> :rocket::rocket: Happy learning!! :rocket: :rocket:
