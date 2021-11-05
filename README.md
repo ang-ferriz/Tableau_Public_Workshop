@@ -1,6 +1,5 @@
 # <p align="center"> 📈 Using Tableau Public to Visualize Climate Data 📈 | 📍 Thursday 4 of November at 18:00h CET
             
-<p align="center">
             [Intro](#a-bullet) | [Content](#b-bullet) | [Resources](#c-bullet) | [Challenge](#d-bullet)
             
 # :hourglass_flowing_sand: Intro <a name="a-bullet"/>
