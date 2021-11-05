@@ -54,4 +54,4 @@ Hint: build the graphs for the other two pollutants (PM2,5 and PM10), add a text
 
 You can also try to build a dashboard for another case study (location) to explore the data.
 
-:rocket::rocket: Aaaaaand happy learning, you are doing great!! :rocket: :rocket:
+:rocket::rocket: Happy learning!! :rocket: :rocket:
