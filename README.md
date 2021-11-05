@@ -25,7 +25,7 @@ This folder contains the materials for the analysis:
             
 Ready?! Let's go! 🙌
             
-*Recommended resources to learn more about the Q&A topics mentioned during the workshop:*
+:books: *Recommended resources to learn more about the Q&A topics mentioned during the workshop:* :books:
  For visual best practices:
 - [Tableau for Dummies: Tips to Make You Tableau-Smarter](https://www.tableau.com/about/blog/2016/3/5-great-tips-tableau-dummies-51512)
             
