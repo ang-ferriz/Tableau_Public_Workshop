@@ -33,15 +33,16 @@ This folder contains the materials for the analysis:
             
 Ready?! Let's go! 🙌
 
-# Resources <a name="c-bullet"/>
-:books: *Recommended resources to learn more about the Q&A topics mentioned during the workshop:*
+# :books: Resources <a name="c-bullet"/>
+*Recommended resources to learn more about the Q&A topics mentioned during the workshop:*
             
- For visual best practices :bar_chart::
+For visual best practices :bar_chart::
+            
 - [Tableau for Dummies: Tips to Make You Tableau-Smarter](https://www.tableau.com/about/blog/2016/3/5-great-tips-tableau-dummies-51512)
             
- - [Visual Analytics](https://www.tableau.com/data-insights/reference-library/visual-analytics)
+- [Visual Analytics](https://www.tableau.com/data-insights/reference-library/visual-analytics)
             
- - [Visual Best Practices](https://help.tableau.com/current/blueprint/en-us/bp_visual_best_practices.htm)
+- [Visual Best Practices](https://help.tableau.com/current/blueprint/en-us/bp_visual_best_practices.htm)
             
 - [When Visualizing Data, Ask Yourself: Where Are Your Eyes Drawn?](https://www.tableau.com/about/blog/2015/10/where-are-your-eyes-drawn-45392)
             
@@ -49,8 +50,8 @@ How to build :top: ranges -- _not so beginner friendly_ but really well explaine
             
 - [Sets for Top N and Others](https://help.tableau.com/current/pro/desktop/en-us/sortgroup_sets_topn.htm)
             
-# Challenge <a name="d-bullet"/>
-:computer: I encourage you continue practising with this little challenge: :fire:  Try to reproduce the image below. :fire:
+# :computer: Challenge <a name="d-bullet"/>
+I encourage you continue practising with this little challenge: :fire:  Try to reproduce the image below. :fire:
             
 Hint: build the graphs for the other two pollutants (PM2,5 and PM10), add a text block to the dashboard and the bar plot comparing China (where the pandemic hit first) and Italy. 
             
