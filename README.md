@@ -1,6 +1,6 @@
 # <p align="center"> 📈 Using Tableau Public to Visualize Climate Data 📈 | 📍 Thursday 4 of November at 18:00h CET
             
- [Intro](#a-bullet) | [Content](#b-bullet) | [Resources](#c-bullet) | [Challenge](#d-bullet) <p align="center">
+<p align="center"> [Intro](#a-bullet) | [Content](#b-bullet) | [Resources](#c-bullet) | [Challenge](#d-bullet) 
             
 # :hourglass_flowing_sand: Intro <a name="a-bullet"/>
 Analyzing data is crucial for society to best come up with solutions to the various environmental and societal challenges we face 🎯. Without it, the latest IPCC (Intergovernmental Panel on Climate Change) report, for example, wouldn’t be possible.
