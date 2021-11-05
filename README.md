@@ -5,14 +5,14 @@
 - [Resources](#c-bullet)
 - [Challenge](#d-bullet)
             
-# Intro <a name="a-bullet"/>
+# :hourglass_flowing_sand: Intro <a name="a-bullet"/>
 Analyzing data is crucial for society to best come up with solutions to the various environmental and societal challenges we face 🎯. Without it, the latest IPCC (Intergovernmental Panel on Climate Change) report, for example, wouldn’t be possible.
 
 We’ll use Tableau Public to explore what effect the COVID-19 global lockdown had on air pollutant levels during the first quarter of 2020.
 
 📌 The workshop is beginner-friendly! All you need is a computer, a good internet connection and to set up a Tableau Public profile to host your work and be able to use the tool (it’s simple to do and you can download the desktop version [here](https://public.tableau.com/s/)).
 
-#  Content <a name="b-bullet"/>
+# :speech_balloon: Content <a name="b-bullet"/>
 This folder contains the materials for the analysis:
 
 1) At the beginning of the workshop you can find the 
@@ -48,8 +48,8 @@ How to build :top: ranges -- _not so beginner friendly_ but really well explaine
             
 - [Sets for Top N and Others](https://help.tableau.com/current/pro/desktop/en-us/sortgroup_sets_topn.htm)
             
-# :computer: Challenge <a name="d-bullet"/>
-I encourage you continue practising with this little challenge: :fire:  Try to reproduce the image below. :fire:
+# :fire: Challenge <a name="d-bullet"/>
+I encourage you continue practising with this little challenge: :computer: Try to reproduce the image below.
             
 Hint: build the graphs for the other two pollutants (PM2,5 and PM10), add a text block to the dashboard and the bar plot comparing China (where the pandemic hit first) and Italy. 
             
