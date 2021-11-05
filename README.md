@@ -33,7 +33,7 @@ This folder contains the materials for the analysis:
 Ready?! Let's go! 🙌
 
 # :books: Resources <a name="c-bullet"/>
-*Recommended resources to learn more about the Q&A topics mentioned during the workshop:*
+Some resources to learn more about the Q&A topics mentioned during the workshop:
             
 For visual best practices :bar_chart::
 + [Tableau for Dummies: Tips to Make You Tableau-Smarter](https://www.tableau.com/about/blog/2016/3/5-great-tips-tableau-dummies-51512)
