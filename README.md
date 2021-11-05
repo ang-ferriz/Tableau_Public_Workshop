@@ -49,4 +49,4 @@ How to build :top: ranges -- _not so beginner friendly_ but really well explaine
 
 You can also try to build a dashboard for another case study (location) to explore the data.
 
-<p align="center"> :rocket::rocket: Happy learning!! :rocket: :rocket:
+:rocket::rocket: Happy learning, you are doing great!! :rocket: :rocket:
