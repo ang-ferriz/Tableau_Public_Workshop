@@ -38,7 +38,7 @@ Ready?! Let's go! 🙌
             
 - [When Visualizing Data, Ask Yourself: Where Are Your Eyes Drawn?](https://www.tableau.com/about/blog/2015/10/where-are-your-eyes-drawn-45392)
             
-How to build top range -- _not so beginner friendly__ but really well explained:
+How to build top range -- _not so beginner friendly_ but really well explained:
             
 - [Sets for Top N and Others](https://help.tableau.com/current/pro/desktop/en-us/sortgroup_sets_topn.htm)
             
