@@ -55,3 +55,10 @@ Hint: build the graphs for the other two pollutants (PM2,5 and PM10), add a text
 You can also try to build a dashboard for another case study (location) to explore the data.
 
 :rocket::rocket: Happy learning!! :rocket: :rocket:
+            
+
+<p align="right"> Let's connect on <a href="https://www.linkedin.com/in/ang-sanchez/" target="blank"><img align="right" src="https://github.com/ang-ferriz/tableau-webinar-21diciembre21/blob/main/Imagenes/linkedin_logo.png" alt="Ángela S." height="30" width="30" /> Linkedin </a>
+
+<p align="right"> ¿E-mail?  <a href="mailto:angela.s.ferriz@gmail.com " target="blank"><img align="right" src="https://github.com/ang-ferriz/tableau-webinar-21diciembre21/blob/main/Imagenes/gmail_logo.png" alt="Ángela S." height="25" width="30" /> angela.s.ferriz@gmail.com </a> or click on the envelope
+
+</p>
